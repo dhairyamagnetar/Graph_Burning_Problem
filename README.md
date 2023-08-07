@@ -35,10 +35,10 @@ This repository contains four Python scripts to solve the "Graph Burning" proble
 2. Download the corresponding Python scripts (code1.py, code2.py, code3.py, code4.py) and place them in a local directory.
 
 3. Run each code using the Python interpreter:
-   - For Code 1: `python code1.py`
-   - For Code 2: `python code2.py`
-   - For Code 3: `python code3.py`
-   - For Code 4: `python code4.py`
+   - For Code 1: `python Brute_Force.py`
+   - For Code 2: `python Exact_Algorithm_input_from_file.py`
+   - For Code 3: `python Exact_Algorithm.py`
+   - For Code 4: `python ILP.py`
 
 Note: Code 4 requires the input graph to be present in the Tasks.txt file in the format of node IDs (one node per line) and edges (two nodes per line).
 
