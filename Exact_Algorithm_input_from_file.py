@@ -1,8 +1,10 @@
 import networkx as nx
 from itertools import chain, combinations
 import matplotlib.pyplot as plt
+import matplotlib.animation as animation
 import time
 import ast
+import simpy
 
 OPT = 0
 start_time = time.time()
